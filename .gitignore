@@ -1,0 +1,6 @@
+/node_modules/
+/build/
+*.stackdump
+
+package-lock.json
+**/.history/**
